@@ -1,0 +1,10 @@
+{
+  "python.analysis.extraPaths": [
+      "D:/open-computer-use-master/open-computer-use",
+      "D:/open-computer-use-master/open-computer-use/os_computer_use"
+  ],
+  "python.autoComplete.extraPaths": [
+      "D:/open-computer-use-master/open-computer-use",
+      "D:/open-computer-use-master/open-computer-use/os_computer_use"
+  ]
+}
